@@ -8,7 +8,7 @@ This MOOC is the second of the four courses in the '[Python for Everybody Specia
 
 These are the topics covered in week 1:
 
-![Week 1 content of 'Python Data Structures' MOOC](***)
+![Week 1 content of 'Python Data Structures' MOOC](https://github.com/mariocpinto/0009_Python_Data_Structures/blob/master/Images/Python_Data_Structures_Week_1_Content.png)
 
 Week 1 introduces the content of the course and the operational details. The 'Python for Informatics' book that this course follows can be found in html format [here](http://www.pythonlearn.com/html-270/).
 
@@ -28,7 +28,7 @@ In addition, the following topics are covered:
 
 These are the topics covered in week 2:
 
-![Week 2 content of 'Python Data Structures' MOOC](***)
+![Week 2 content of 'Python Data Structures' MOOC](https://github.com/mariocpinto/0009_Python_Data_Structures/blob/master/Images/Python_Data_Structures_Week_2_Content.png)
 
 This week focusses on getting Python installed and is identical to week 2 of the '[Introduction to Python](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python)' course (and thus can be skipped).
 
