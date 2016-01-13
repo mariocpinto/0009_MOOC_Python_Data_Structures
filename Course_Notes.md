@@ -38,3 +38,21 @@ These are the topics covered in week 3:
 
 ![Week 3 content of 'Python Data Structures' MOOC](***)
 
+Specifically, the following topics are covered:
+* Built in functions - a list can be found [here](https://docs.python.org/3.5/library/functions.html).
+* Opening a file with the `open(filename,mode)` function. This function returns a file handle. Common modes are `r` or `w`.
+* The newline character `\n`.
+* `for var in file_handle` gives one access to the files contents one line at a time.
+* Counting the lines in a file.
+* Reading the whole file.
+* Searching through a file.
+* Reading a file name and dealing with bad files.
+
+#### Week 4
+
+These are the topics covered in week 4:
+
+![Week 4 content of 'Python Data Structures' MOOC](***)
+
+Specifically, the following topics are covered:
+* 
