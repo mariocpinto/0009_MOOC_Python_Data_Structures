@@ -23,3 +23,18 @@ In addition, the following topics are covered:
 * Python string methods. A list of methods can can be accessed using the `dir()` command and are documented [here](https://docs.python.org/2/library/stdtypes.html#string-methods).
 * Specific examples of string methods - `lower()`, `upper()`, `find(string_to_find)`, `replace(replace_this,with_this)`, `strip()`, `startswith(starting_string)`.
 * An example of parsing text.
+
+#### Week 2
+
+These are the topics covered in week 2:
+
+![Week 2 content of 'Python Data Structures' MOOC](***)
+
+This week focusses on getting Python installed and is identical to week 2 of the '[Introduction to Python](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python)' course (and thus can be skipped).
+
+#### Week 3
+
+These are the topics covered in week 3:
+
+![Week 3 content of 'Python Data Structures' MOOC](***)
+
