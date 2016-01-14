@@ -55,4 +55,12 @@ These are the topics covered in week 4:
 ![Week 4 content of 'Python Data Structures' MOOC](***)
 
 Specifically, the following topics are covered:
-* 
+* Strings are immutable (elements cannot be changed), but lists are mutable.
+* Creating an empth list with `list()` or `[]`.
+* Obtaining the number of elements in a list using `len()`.
+* Creating a list using `range(n)` - creates the list `[0,1,2,...,n-1]`.
+* Concatinating lists using `+`.
+* Slicing lists using `list_name[i:j]`.
+* List methods - documentation can be found [here](https://docs.python.org/3.5/tutorial/datastructures.html) e.g. `append()`, `sort()`, etc.
+* Functions operating on lists: `len(list_name)`, `min(list_name)`, `max(list_name)`, `sum(list_name)`.
+* Converting a string to a list with one element for every word using `string_name.split(delimiter)` method.
