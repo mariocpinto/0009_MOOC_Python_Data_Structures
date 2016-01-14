@@ -44,7 +44,7 @@ Specifically, the following topics are covered:
 * The newline character `\n`.
 * `for var in file_handle` gives one access to the files contents one line at a time.
 * Counting the lines in a file.
-* Reading the whole file.
+* Reading the whole file using `filename.read()`.
 * Searching through a file.
 * Reading a file name and dealing with bad files.
 
@@ -64,3 +64,19 @@ Specifically, the following topics are covered:
 * List methods - documentation can be found [here](https://docs.python.org/3.5/tutorial/datastructures.html) e.g. `append()`, `sort()`, etc.
 * Functions operating on lists: `len(list_name)`, `min(list_name)`, `max(list_name)`, `sum(list_name)`.
 * Converting a string to a list with one element for every word using `string_name.split(delimiter)` method.
+
+#### Week 5
+
+These are the topics covered in week 5:
+
+![Week 5 content of 'Python Data Structures' MOOC](***)
+
+Specifically, the following topics are covered:
+* Dictionary: a set of key/value pairs.
+* Creating an empty dictionary with `dict()` or `{}`.
+* Adding elements to a dictionary using `dictionary_name[key] = value`.
+* The `get` method for dictionaries: `dictionary_name.get(key, default)` will return
+the value corresponding to key if it exisits, else return default.
+* Getting a list of the key values using the `list(dictionary_name)` function.
+* Alternately you can use `dictionary_name.keys()` and `dictionary_name.values()` to get a list of keys and values.
+* You can also use `dictionary_name.items()` to get two iteration variables on loops.
