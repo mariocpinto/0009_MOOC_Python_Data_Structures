@@ -2,9 +2,9 @@
 
 These notes are intended to be a high level overview / quick refresher of the contents of the Coursera course 
 '[Python Data Structures](https://www.coursera.org/learn/python-data/)'.
-This MOOC is the second of the four courses in the '[Python for Everybody Specialization](https://www.coursera.org/specializations/python)'. The accompanying open book to this course is [Python for Informatics](http://pythonlearn.com/).
+This MOOC is the second of the four courses in the '[Python for Everybody Specialization](https://www.coursera.org/specializations/python)'. The accompanying open book to this course is [Python for Informatics](http://pythonlearn.com/) (parts of which have been derived from the book [How to Think LIke a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)).
 
-#### Week 1
+#### Week 1: Introduction & Strings
 
 These are the topics covered in week 1:
 
@@ -24,7 +24,7 @@ In addition, the following topics are covered:
 * Specific examples of string methods - `lower()`, `upper()`, `find(string_to_find)`, `replace(replace_this,with_this)`, `strip()`, `startswith(starting_string)`.
 * An example of parsing text.
 
-#### Week 2
+#### Week 2: Installing & Using Python
 
 These are the topics covered in week 2:
 
@@ -32,7 +32,7 @@ These are the topics covered in week 2:
 
 This week focusses on getting Python installed and is identical to week 2 of the '[Introduction to Python](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python)' course (and thus can be skipped).
 
-#### Week 3
+#### Week 3: Files
 
 These are the topics covered in week 3:
 
@@ -48,7 +48,7 @@ Specifically, the following topics are covered:
 * Searching through a file.
 * Reading a file name and dealing with bad files.
 
-#### Week 4
+#### Week 4: Lists
 
 These are the topics covered in week 4:
 
@@ -65,7 +65,7 @@ Specifically, the following topics are covered:
 * Functions operating on lists: `len(list_name)`, `min(list_name)`, `max(list_name)`, `sum(list_name)`.
 * Converting a string to a list with one element for every word using `string_name.split(delimiter)` method.
 
-#### Week 5
+#### Week 5: Dictionaries
 
 These are the topics covered in week 5:
 
@@ -80,3 +80,28 @@ the value corresponding to key if it exisits, else return default.
 * Getting a list of the key values using the `list(dictionary_name)` function.
 * Alternately you can use `dictionary_name.keys()` and `dictionary_name.values()` to get a list of keys and values.
 * You can also use `dictionary_name.items()` to get two iteration variables on loops.
+
+
+#### Week 6: Tuples
+
+These are the topics covered in week 6:
+
+![Week 6 content of 'Python Data Structures' MOOC](***)
+
+Specifically, the following topics are covered:
+* Initiating an empty tuple with `tuple()`or `()`.
+* Defining the elements of a tuple with round brackets e.g. `(1, 2, 3)`.
+* Tuples are immutable.
+* You cannot sort, append, reverse a tuple.
+* Tuples are efficient and so can be the preferred choice for non-changing lists.
+* Assigning multiple variables e.g. `a, b, c = (1, 2, 3)`.
+* Tuples are comparable. Comparison is performed on the first unequal element pair.
+* Sorting items in a dictionary by keys: `tuple_list = dictionary.items(); tuple_list.sort()`.
+* The `sorted()` function that can be used to sort a sequence.
+* Sorting items in a list by values: First create a list of tuples, with each tuple representing a (_value, key_) pair and then sort the list.
+
+#### Week 7: Graduation
+
+These are the topics covered in week 7:
+
+![Week 7 content of 'Python Data Structures' MOOC](***)
