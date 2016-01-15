@@ -104,7 +104,7 @@ Specifically, the following topics are covered:
 
 These are the topics covered in week 7:
 
-![Week 7 content of 'Python Data Structures' MOOC](***)
+![Week 7 content of 'Python Data Structures' MOOC](https://github.com/mariocpinto/0009_Python_Data_Structures/blob/master/Images/Python_Data_Structures_Week_2_Content.png)
 
 This week features a really sweet MOOC graduation ceremony video!
 
