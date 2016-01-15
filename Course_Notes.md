@@ -2,7 +2,7 @@
 
 These notes are intended to be a high level overview / quick refresher of the contents of the Coursera course 
 '[Python Data Structures](https://www.coursera.org/learn/python-data/)'.
-This MOOC is the second of the four courses in the '[Python for Everybody Specialization](https://www.coursera.org/specializations/python)'. The accompanying open book to this course is [Python for Informatics](http://pythonlearn.com/) (parts of which have been derived from the book [How to Think LIke a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)).
+This MOOC is the second of the four courses in the '[Python for Everybody Specialization](https://www.coursera.org/specializations/python)'. The accompanying open book to this course is [Python for Informatics](http://pythonlearn.com/) (parts of which have been derived from the book [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)).
 
 #### Week 1: Introduction & Strings
 
@@ -105,3 +105,8 @@ Specifically, the following topics are covered:
 These are the topics covered in week 7:
 
 ![Week 7 content of 'Python Data Structures' MOOC](***)
+
+This week features a really sweet MOOC graduation ceremony video!
+
+#### Concluding Remarks:
+This is another good courses in the [Python for Everybody Specialization](https://www.coursera.org/specializations/python). While the first course in the specialization focuses on procedural programming, this one focuses on data structures. While a bit more demanding than the first course, this course is still light in terms of time required to complete the course.
