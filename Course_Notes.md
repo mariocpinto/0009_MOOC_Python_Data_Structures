@@ -2,7 +2,7 @@
 
 These notes are intended to be a high level overview / quick refresher of the contents of the Coursera course 
 '[Python Data Structures](https://www.coursera.org/learn/python-data/)'.
-This MOOC is the second of the four courses in the '[Python for Everybody Specialization](https://www.coursera.org/specializations/python)'.
+This MOOC is the second of the four courses in the '[Python for Everybody Specialization](https://www.coursera.org/specializations/python)'. The accompanying open book to this course is [Python for Informatics](http://pythonlearn.com/).
 
 #### Week 1
 
