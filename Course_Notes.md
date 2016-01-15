@@ -36,7 +36,7 @@ This week focusses on getting Python installed and is identical to week 2 of the
 
 These are the topics covered in week 3:
 
-![Week 3 content of 'Python Data Structures' MOOC](***)
+![Week 3 content of 'Python Data Structures' MOOC](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures/blob/master/Images/Python_Data_Structures_Week_3_Content.png)
 
 Specifically, the following topics are covered:
 * Built in functions - a list can be found [here](https://docs.python.org/3.5/library/functions.html).
@@ -52,7 +52,7 @@ Specifically, the following topics are covered:
 
 These are the topics covered in week 4:
 
-![Week 4 content of 'Python Data Structures' MOOC](***)
+![Week 4 content of 'Python Data Structures' MOOC](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures/blob/master/Images/Python_Data_Structures_Week_4_Content.png)
 
 Specifically, the following topics are covered:
 * Strings are immutable (elements cannot be changed), but lists are mutable.
@@ -69,7 +69,7 @@ Specifically, the following topics are covered:
 
 These are the topics covered in week 5:
 
-![Week 5 content of 'Python Data Structures' MOOC](***)
+![Week 5 content of 'Python Data Structures' MOOC](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures/blob/master/Images/Python_Data_Structures_Week_5_Content.png)
 
 Specifically, the following topics are covered:
 * Dictionary: a set of key/value pairs.
@@ -86,7 +86,7 @@ the value corresponding to key if it exisits, else return default.
 
 These are the topics covered in week 6:
 
-![Week 6 content of 'Python Data Structures' MOOC](***)
+![Week 6 content of 'Python Data Structures' MOOC](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures/blob/master/Images/Python_Data_Structures_Week_6_Content.png)
 
 Specifically, the following topics are covered:
 * Initiating an empty tuple with `tuple()`or `()`.
