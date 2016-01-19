@@ -44,7 +44,7 @@ Specifically, the following topics are covered:
 * The newline character `\n`.
 * `for var in file_handle` gives one access to the files contents one line at a time.
 * Counting the lines in a file.
-* Reading the whole file using `filename.read()`.
+* Reading the whole file using `filename.read()` (for small files).
 * Searching through a file.
 * Reading a file name and dealing with bad files.
 
@@ -56,7 +56,7 @@ These are the topics covered in week 4:
 
 Specifically, the following topics are covered:
 * Strings are immutable (elements cannot be changed), but lists are mutable.
-* Creating an empth list with `list()` or `[]`.
+* Creating an empty list with `list()` or `[]`.
 * Obtaining the number of elements in a list using `len()`.
 * Creating a list using `range(n)` - creates the list `[0,1,2,...,n-1]`.
 * Concatinating lists using `+`.
@@ -92,7 +92,7 @@ Specifically, the following topics are covered:
 * Initiating an empty tuple with `tuple()`or `()`.
 * Defining the elements of a tuple with round brackets e.g. `(1, 2, 3)`.
 * Tuples are immutable.
-* You cannot sort, append, reverse a tuple.
+* You _cannot_ sort, append, reverse a tuple.
 * Tuples are efficient and so can be the preferred choice for non-changing lists.
 * Assigning multiple variables e.g. `a, b, c = (1, 2, 3)`.
 * Tuples are comparable. Comparison is performed on the first unequal element pair.
