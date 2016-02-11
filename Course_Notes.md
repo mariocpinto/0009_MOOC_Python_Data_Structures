@@ -10,9 +10,7 @@ These are the topics covered in week 1:
 
 ![Week 1 content of 'Python Data Structures' MOOC](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures/blob/master/Images/Python_Data_Structures_Week_1_Content.png)
 
-Week 1 introduces the content of the course and the operational details. The 'Python for Informatics' book that this course follows can be found in html format [here](http://www.pythonlearn.com/html-270/).
-
-In addition, the following topics are covered:
+Week 1 introduces the content of the course and the operational details. In addition, the following topics are covered:
 * Introduction to strings.
 * Concatinating strings using `+`.
 * Indexing into strings using `string[x]`.
